@@ -18,9 +18,9 @@ npm run dev
 npm run build
 ```
 ## Demo 
-![This is an image](https://github.com/wroetoshaw/Haunted-House/tree/main/static/demo/1.png)
-![This is an image](https://github.com/wroetoshaw/Haunted-House/tree/main/static/demo/2.png)
-![This is an image](https://github.com/wroetoshaw/Haunted-House/tree/main/static/demo/3.png)
+![This is an image](https://raw.githubusercontent.com/wroetoshaw/Haunted-House/main/static/demo/1.png)
+![This is an image](https://raw.githubusercontent.com/wroetoshaw/Haunted-House/main/static/demo/2.png)
+![This is an image](https://raw.githubusercontent.com/wroetoshaw/Haunted-House/main/static/demo/3.png)
 
 
 
