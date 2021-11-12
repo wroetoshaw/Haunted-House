@@ -19,5 +19,8 @@ npm run dev
 ```sh
 npm run build
 ```
+# Demo 
+![This is an image](../blob/galaxy-generated/static/1.png)
+
 
 
