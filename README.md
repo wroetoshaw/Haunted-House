@@ -5,7 +5,7 @@ Haunted House 3d simulation with three js and basic shape
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+
 # Install dependencies (only the first time)
 ```sh
 npm install
@@ -19,5 +19,5 @@ npm run dev
 ```sh
 npm run build
 ```
-```
+
 
